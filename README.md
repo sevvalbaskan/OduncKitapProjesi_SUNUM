@@ -5,6 +5,7 @@ Burada projenin ekran resimlerini ve kaynak kodlardan bazı kod parçalarını a
 
 PROJE HAKKINDA TEKNİK BİLGİLER:
 * Proje AspNet MVC yapısıyla yazılmıştır. 
+* Proje Visual Studio 2019 IDE'sinde yazılmıştır.
 
 * Proje Entity Framework DBFirst-Database First yaklaşımıyla yazılmıştır. 
 
