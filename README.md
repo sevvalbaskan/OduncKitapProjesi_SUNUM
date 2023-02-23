@@ -1,5 +1,5 @@
 # OduncKitapProjesi_SUNUM
-Merhaba, Ödünç Kitap Projesini İstanbul - Beşiktaş Wissen Akademi'de Kursiyerlik yaptığım süreçte oluşturduk. Ödünç Kitap Projesi Aspnet MVC ile yazdığımız bir web projesidir. Kapsamı geniş olan bu projeyi belirli kurs sürecimizdeki zaman koşullarına göre yazdık. Projenin yazılmaaya devam eden bölümleri vardır. Bu proje ile amacımız gerçek hayata yaklaşmak ve istihdam sürecindeki hazır bulunuşluğu maksimum seviyeye getirebilmektir.
+Merhaba, Ödünç Kitap Projesini İstanbul - Beşiktaş Wissen Akademi'de Kursiyerlik yaptığım süreçte oluşturduk. Ödünç Kitap Projesi Aspnet MVC ile yazdığımız bir web projesidir. Kapsamı geniş olan bu projeyi belirli kurs sürecimizdeki zaman koşullarına göre yazdık. Projenin yazılmaya devam eden bölümleri vardır. Bu proje ile amacımız gerçek hayata yaklaşmak ve istihdam sürecindeki hazır bulunuşluğu maksimum seviyeye getirebilmektir.
 
 Burada projenin ekran resimlerini ve kaynak kodlardan bazı kod parçalarını aşağıda görebilirsiniz.
 
